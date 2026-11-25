@@ -1,6 +1,329 @@
-
 {
-  "catalogVersion": 1,
-  "appName": "SmartStudy Kids",
-  "packages": []
+  "version": 1,
+  "packages": [
+    {
+      "id": "matematika-kelas-1",
+      "title": "Matematika Kelas 1",
+      "grade": 1,
+      "subject": "Matematika",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/matematika-kelas-1.zip"
+    },
+    {
+      "id": "bahasa-indonesia-kelas-1",
+      "title": "Bahasa Indonesia Kelas 1",
+      "grade": 1,
+      "subject": "Bahasa Indonesia",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-indonesia-kelas-1.zip"
+    },
+    {
+      "id": "ipas-kelas-1",
+      "title": "IPAS Kelas 1",
+      "grade": 1,
+      "subject": "IPAS",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/ipas-kelas-1.zip"
+    },
+    {
+      "id": "pendidikan-pancasila-kelas-1",
+      "title": "Pendidikan Pancasila Kelas 1",
+      "grade": 1,
+      "subject": "Pendidikan Pancasila",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/pendidikan-pancasila-kelas-1.zip"
+    },
+    {
+      "id": "bahasa-inggris-kelas-1",
+      "title": "Bahasa Inggris Kelas 1",
+      "grade": 1,
+      "subject": "Bahasa Inggris",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-inggris-kelas-1.zip"
+    },
+    {
+      "id": "seni-budaya-kelas-1",
+      "title": "Seni Budaya Kelas 1",
+      "grade": 1,
+      "subject": "Seni Budaya",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/seni-budaya-kelas-1.zip"
+    },
+    {
+      "id": "matematika-kelas-2",
+      "title": "Matematika Kelas 2",
+      "grade": 2,
+      "subject": "Matematika",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/matematika-kelas-2.zip"
+    },
+    {
+      "id": "bahasa-indonesia-kelas-2",
+      "title": "Bahasa Indonesia Kelas 2",
+      "grade": 2,
+      "subject": "Bahasa Indonesia",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-indonesia-kelas-2.zip"
+    },
+    {
+      "id": "ipas-kelas-2",
+      "title": "IPAS Kelas 2",
+      "grade": 2,
+      "subject": "IPAS",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/ipas-kelas-2.zip"
+    },
+    {
+      "id": "pendidikan-pancasila-kelas-2",
+      "title": "Pendidikan Pancasila Kelas 2",
+      "grade": 2,
+      "subject": "Pendidikan Pancasila",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/pendidikan-pancasila-kelas-2.zip"
+    },
+    {
+      "id": "bahasa-inggris-kelas-2",
+      "title": "Bahasa Inggris Kelas 2",
+      "grade": 2,
+      "subject": "Bahasa Inggris",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-inggris-kelas-2.zip"
+    },
+    {
+      "id": "seni-budaya-kelas-2",
+      "title": "Seni Budaya Kelas 2",
+      "grade": 2,
+      "subject": "Seni Budaya",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/seni-budaya-kelas-2.zip"
+    },
+    {
+      "id": "matematika-kelas-3",
+      "title": "Matematika Kelas 3",
+      "grade": 3,
+      "subject": "Matematika",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/matematika-kelas-3.zip"
+    },
+    {
+      "id": "bahasa-indonesia-kelas-3",
+      "title": "Bahasa Indonesia Kelas 3",
+      "grade": 3,
+      "subject": "Bahasa Indonesia",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-indonesia-kelas-3.zip"
+    },
+    {
+      "id": "ipas-kelas-3",
+      "title": "IPAS Kelas 3",
+      "grade": 3,
+      "subject": "IPAS",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/ipas-kelas-3.zip"
+    },
+    {
+      "id": "pendidikan-pancasila-kelas-3",
+      "title": "Pendidikan Pancasila Kelas 3",
+      "grade": 3,
+      "subject": "Pendidikan Pancasila",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/pendidikan-pancasila-kelas-3.zip"
+    },
+    {
+      "id": "bahasa-inggris-kelas-3",
+      "title": "Bahasa Inggris Kelas 3",
+      "grade": 3,
+      "subject": "Bahasa Inggris",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-inggris-kelas-3.zip"
+    },
+    {
+      "id": "seni-budaya-kelas-3",
+      "title": "Seni Budaya Kelas 3",
+      "grade": 3,
+      "subject": "Seni Budaya",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/seni-budaya-kelas-3.zip"
+    },
+    {
+      "id": "matematika-kelas-4",
+      "title": "Matematika Kelas 4",
+      "grade": 4,
+      "subject": "Matematika",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/matematika-kelas-4.zip"
+    },
+    {
+      "id": "bahasa-indonesia-kelas-4",
+      "title": "Bahasa Indonesia Kelas 4",
+      "grade": 4,
+      "subject": "Bahasa Indonesia",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-indonesia-kelas-4.zip"
+    },
+    {
+      "id": "ipas-kelas-4",
+      "title": "IPAS Kelas 4",
+      "grade": 4,
+      "subject": "IPAS",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/ipas-kelas-4.zip"
+    },
+    {
+      "id": "pendidikan-pancasila-kelas-4",
+      "title": "Pendidikan Pancasila Kelas 4",
+      "grade": 4,
+      "subject": "Pendidikan Pancasila",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/pendidikan-pancasila-kelas-4.zip"
+    },
+    {
+      "id": "bahasa-inggris-kelas-4",
+      "title": "Bahasa Inggris Kelas 4",
+      "grade": 4,
+      "subject": "Bahasa Inggris",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-inggris-kelas-4.zip"
+    },
+    {
+      "id": "seni-budaya-kelas-4",
+      "title": "Seni Budaya Kelas 4",
+      "grade": 4,
+      "subject": "Seni Budaya",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/seni-budaya-kelas-4.zip"
+    },
+    {
+      "id": "matematika-kelas-5",
+      "title": "Matematika Kelas 5",
+      "grade": 5,
+      "subject": "Matematika",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/matematika-kelas-5.zip"
+    },
+    {
+      "id": "bahasa-indonesia-kelas-5",
+      "title": "Bahasa Indonesia Kelas 5",
+      "grade": 5,
+      "subject": "Bahasa Indonesia",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-indonesia-kelas-5.zip"
+    },
+    {
+      "id": "ipas-kelas-5",
+      "title": "IPAS Kelas 5",
+      "grade": 5,
+      "subject": "IPAS",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/ipas-kelas-5.zip"
+    },
+    {
+      "id": "pendidikan-pancasila-kelas-5",
+      "title": "Pendidikan Pancasila Kelas 5",
+      "grade": 5,
+      "subject": "Pendidikan Pancasila",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/pendidikan-pancasila-kelas-5.zip"
+    },
+    {
+      "id": "bahasa-inggris-kelas-5",
+      "title": "Bahasa Inggris Kelas 5",
+      "grade": 5,
+      "subject": "Bahasa Inggris",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-inggris-kelas-5.zip"
+    },
+    {
+      "id": "seni-budaya-kelas-5",
+      "title": "Seni Budaya Kelas 5",
+      "grade": 5,
+      "subject": "Seni Budaya",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/seni-budaya-kelas-5.zip"
+    },
+    {
+      "id": "matematika-kelas-6",
+      "title": "Matematika Kelas 6",
+      "grade": 6,
+      "subject": "Matematika",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/matematika-kelas-6.zip"
+    },
+    {
+      "id": "bahasa-indonesia-kelas-6",
+      "title": "Bahasa Indonesia Kelas 6",
+      "grade": 6,
+      "subject": "Bahasa Indonesia",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-indonesia-kelas-6.zip"
+    },
+    {
+      "id": "ipas-kelas-6",
+      "title": "IPAS Kelas 6",
+      "grade": 6,
+      "subject": "IPAS",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/ipas-kelas-6.zip"
+    },
+    {
+      "id": "pendidikan-pancasila-kelas-6",
+      "title": "Pendidikan Pancasila Kelas 6",
+      "grade": 6,
+      "subject": "Pendidikan Pancasila",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/pendidikan-pancasila-kelas-6.zip"
+    },
+    {
+      "id": "bahasa-inggris-kelas-6",
+      "title": "Bahasa Inggris Kelas 6",
+      "grade": 6,
+      "subject": "Bahasa Inggris",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/bahasa-inggris-kelas-6.zip"
+    },
+    {
+      "id": "seni-budaya-kelas-6",
+      "title": "Seni Budaya Kelas 6",
+      "grade": 6,
+      "subject": "Seni Budaya",
+      "version": 1,
+      "questionCount": 150,
+      "downloadUrl": "https://raw.githubusercontent.com/iezra84-net/smartstudy-kids-content/main/packages/seni-budaya-kelas-6.zip"
+    }
+  ]
 }
